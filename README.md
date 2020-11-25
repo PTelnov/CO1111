@@ -2,4 +2,6 @@
 The Computing Challenge project page
 
 ## Log entry for worksheet 01
-Familarizing with Git and GitHub. Cool stuff!
+Familiarizing with Git and GitHub. Very Cool stuff!
+
+Experiencing the WebStorm support for Git.
