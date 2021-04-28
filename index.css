@@ -7,9 +7,8 @@
 }
 body
 {
-font-family: "Segoe UI";
+    font-family: "Segoe UI";
     background-color: wheat;
-    font-size: 1vw;
 }
 h1
 {
@@ -37,7 +36,8 @@ div
 {
 
     text-align: center;
-    margin: 20vw;
+    margin: 10vw;
+
 }
 
 
