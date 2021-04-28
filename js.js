@@ -43,6 +43,7 @@ function contrast()
     {
         let timeFinal = new Date().getTime();
         timeFinal -= timeF;
+        timeFinal/=1000;
         data = getCookie("name")+ "  :  " + timeFinal + "With Contrast";
         document.write(data);
     }
@@ -56,8 +57,7 @@ function without()
         timeFinal -= timeF;
         timeFinal/=1000;
         data = getCookie("name")+ "  :  " + timeFinal + "Without Contrast";
-        setCookie("data", data, 1);
-        writeIn();
+        //setCookie("data", data, 1);
         document.write(data);
     }
 }
